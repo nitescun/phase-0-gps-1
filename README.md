@@ -1,4 +1,4 @@
-# phase-0-gps-1
+# Command Log from GPS 1.1
    16  mkdir gps1 :Create a folder gps1
    17  cd gps1/ :Change directory to gps1
    18  git clone https://github.com/nitescun/phase-0-gps-1.git :Clone the new repository
